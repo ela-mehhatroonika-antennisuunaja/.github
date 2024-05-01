@@ -1,3 +1,2 @@
-Tere!
-
-http://127.0.0.1:56781/mavlink/
+Command promptis:
+mavproxy --master=COMx --out 127.0.0.1:14550
