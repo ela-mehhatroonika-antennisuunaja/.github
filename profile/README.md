@@ -1,7 +1,7 @@
 # Antennisuunaja MAVLINK-protokolli kasutatavatele mehitamata õhusõidukitele
 Siin lehel on Eesti Lennuakadeemias, 2024. aasta kevadsemestril, mehhatroonika aine raames arendatud antennisuunaja lähtekood ja kiirjuhend.
 
-##Kuidas kasutada?
+## Kuidas kasutada?
 1. 2
 2. 3
 3. 4
