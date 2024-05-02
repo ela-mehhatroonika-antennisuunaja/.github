@@ -10,7 +10,7 @@ Antennisuunaja kasutamiseks on vaja mehitamata õhusõidukit, mis saadab telemee
 - Droon (kui simulaatorit ei kasutata)
 - Elekter (antennisuunajal on pingeregulaator, võtab sisse kuni 40 V).
 ## Kuidas kasutada?
-Vaata [mavlink-telemeetria repost]([https://www.example.com](https://github.com/ela-mehhatroonika-antennisuunaja/mavlink-telemeetria)).
+Vaata [mavlink-telemeetria repost](https://github.com/ela-mehhatroonika-antennisuunaja/mavlink-telemeetria)
 - Kontrolli, et arvutis oleks Python. Seejärel installi `requirements.txt` kasutades käsku `pip install -r requirements.txt `
 - Kontrolli config.txt failis olevad parameetrid.
 - Jooksuta `main.py`.
