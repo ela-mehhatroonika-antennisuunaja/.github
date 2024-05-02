@@ -1,7 +1,7 @@
 # Antennisuunaja MAVLINK-protokolli kasutatavatele mehitamata õhusõidukitele
 Siin lehel on Eesti Lennuakadeemias, 2024. aasta kevadsemestril, mehhatroonika aine raames arendatud antennisuunaja lähtekood ja kiirjuhend.
 
-Antennisuunaja kasutamiseks on vaja mehitamata õhusõidukit, mis saadab telemeetria kaudu MAVLINK protokollis informatsioon. Kõige halvemal juhul on vaja ka oma raadiot ja antenni, sest selle teksti kirjutamise hetkel pole veel kindel, mis raadio ja antenn suunajal peal on.
+Antennisuunaja kasutamiseks on vaja mehitamata õhusõidukit, mis saadab telemeetria kaudu MAVLINK protokollis informatsiooni. Kõige halvemal juhul on vaja ka oma raadiot ja antenni, sest selle teksti kirjutamise hetkel pole veel kindel, mis raadio ja antenn suunajal peal on (praegu 868 MHz).
 
 ## Mida on vaja?
 - Antenn (kui suunajal pole)
