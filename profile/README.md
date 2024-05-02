@@ -1,4 +1,4 @@
-# Antennisuunaja MAVLINK protokollile
+# Antennisuunaja MAVLINK-protokolli kasutatavatele mehitamata õhusõidukitele
 Siin lehel on Eesti Lennuakadeemias, 2024. aasta kevadsemestril, mehhatroonika aine raames arendatud antennisuunaja lähtekood ja kiirjuhend.
 
 Command promptis:
