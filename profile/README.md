@@ -11,3 +11,9 @@ Antennisuunaja kasutamiseks on vaja mehitamata õhusõidukit, mis saadab telemee
 - Elekter (antennisuunajal on pingeregulaator, võtab sisse kuni 40 V).
 ## Kuidas kasutada?
 Vaata [mavlink-telemeetria repost](https://github.com/ela-mehhatroonika-antennisuunaja/mavlink-telemeetria)
+## To-do
+- [ ] Joystickuga juhtimine
+- [ ] Config.txt
+- [ ] Kompass
+- [ ] GPS
+- [ ] requirements.txt
