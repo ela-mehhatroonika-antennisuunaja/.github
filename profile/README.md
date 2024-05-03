@@ -11,9 +11,3 @@ Antennisuunaja kasutamiseks on vaja mehitamata õhusõidukit, mis saadab telemee
 - Elekter (antennisuunajal on pingeregulaator, võtab sisse kuni 40 V).
 ## Kuidas kasutada?
 Vaata [mavlink-telemeetria repost](https://github.com/ela-mehhatroonika-antennisuunaja/mavlink-telemeetria)
-- Kontrolli, et arvutis oleks Python. Seejärel installi `requirements.txt` kasutades käsku `pip install -r requirements.txt `
-- Kontrolli config.txt failis olevad parameetrid.
-- Jooksuta `main.py`.
-- Kui pole, installi mavproxy.
-- Jooskuta command promptis `mavproxy --master=COMx --out 127.0.0.1:14550`. `x` asendada pordi numbriga, millesse raadio on ühendatud (vt Device Managerist).
-- Kui MAVPROXY saab MAVLINKi ühenduse kätte, peaks antennisuunaja tööle hakkama.
