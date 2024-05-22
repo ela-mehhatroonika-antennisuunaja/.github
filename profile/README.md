@@ -15,5 +15,5 @@ Vaata [mavlink-telemeetria repost](https://github.com/ela-mehhatroonika-antennis
 - [ ] Joystickuga juhtimine
 - [ ] Config.txt
 - [ ] Kompass
-- [ ] GPS
+- [x] GPS
 - [ ] requirements.txt
