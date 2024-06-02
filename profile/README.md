@@ -5,15 +5,15 @@ Antennisuunaja kasutamiseks on vaja mehitamata õhusõidukit, mis saadab telemee
 
 ## Mida on vaja?
 - Antenn (kui suunajal pole)
-- Raadio (kui suunajal pole)
+- Telemeetriaraadio/-vastuvõtja (kui suunajal pole)
 - (Süle-) arvuti. Selles arvutisse ühendub nii antennisuunaja kui ka raadio (mõlemad USB-ga).
 - Droon (kui simulaatorit ei kasutata)
-- Elekter (antennisuunajal on pingeregulaator, võtab sisse kuni 40 V). 
+- Elekter (antennisuunajal on pingeregulaator, võtab sisse kuni 40 V). 4S 5000mAh aku sobib hästi.
 ## Kuidas kasutada?
 Vaata [mavlink-telemeetria repost](https://github.com/ela-mehhatroonika-antennisuunaja/mavlink-telemeetria)
 ## To-do
+- [X] Config.txt
+- [X] Kompass - vajab arendamist, kas leida uus või filtreerida vana tulemusi.
+- [X] requirements.txt
+- [ ] GPS - osaliselt okei, saab kasutada drooni GPS-i
 - [ ] Joystickuga juhtimine
-- [ ] Config.txt - praegu confimine toimub main.py alguses.
-- [X] Kompass
-- [ ] GPS
-- [ ] requirements.txt
