@@ -12,10 +12,11 @@ Antennisuunaja kasutamiseks on vaja mehitamata õhusõidukit, mis saadab telemee
 ## Kuidas kasutada?
 Vaata [mavlink-telemeetria repost](https://github.com/ela-mehhatroonika-antennisuunaja/mavlink-telemeetria)
 
-Kui soovite oma programmiga suunajat liigutada või vaadata servode juhtimise koodi, vaata [servo juhtimise repost](https://github.com/ela-mehhatroonika-antennisuunaja/servo-juhtimine)
 ## To-do
 - [X] Config.txt
 - [X] Kompass - vajab arendamist, kas leida uus või filtreerida vana tulemusi.
 - [X] requirements.txt
 - [ ] GPS - osaliselt okei, saab kasutada drooni GPS-i
 - [ ] Joystickuga juhtimine
+
+Kui soovite oma programmiga suunajat liigutada või vaadata servode juhtimise koodi, vaata [servo juhtimise repost](https://github.com/ela-mehhatroonika-antennisuunaja/servo-juhtimine)
