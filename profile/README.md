@@ -11,6 +11,8 @@ Antennisuunaja kasutamiseks on vaja mehitamata õhusõidukit, mis saadab telemee
 - Elekter (antennisuunajal on pingeregulaator, võtab sisse kuni 40 V). 4S 5000mAh aku sobib hästi.
 ## Kuidas kasutada?
 Vaata [mavlink-telemeetria repost](https://github.com/ela-mehhatroonika-antennisuunaja/mavlink-telemeetria)
+
+Kui soovite oma programmiga suunajat liigutada või vaadata servode juhtimise koodi, vaata [servo juhtimise repost](https://github.com/ela-mehhatroonika-antennisuunaja/servo-juhtimine)
 ## To-do
 - [X] Config.txt
 - [X] Kompass - vajab arendamist, kas leida uus või filtreerida vana tulemusi.
