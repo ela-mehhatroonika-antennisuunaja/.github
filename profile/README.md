@@ -1,5 +1,5 @@
 # Antennisuunaja mehitamata õhusõidukitele.
-Siin lehel on Eesti Lennuakadeemias 2024. aasta kevadsemestril mehhatroonika aine raames arendatud antennisuunaja lähtekood ja kiirjuhend.
+Siin lehel on Eesti Lennuakadeemias mehhatroonika aine raames arendatud antennisuunaja lähtekood ja kiirjuhend. Aine toimus 2024. aasta kevadsemestril.
 
 Antennisuunaja kasutamiseks on vaja mehitamata õhusõidukit, mis saadab telemeetria kaudu MAVLINK protokollis informatsiooni. Arvatavasti läheb vaja ka oma **antenni ja raadiot**, praegu jätame suunajale külge sellega kaasa tulnud 2.4 GHz antenni (mida me proovisime muuta, seega see võib-olla enam ei tööta).
 
