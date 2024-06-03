@@ -3,6 +3,7 @@ Siin lehel on Eesti Lennuakadeemias mehhatroonika aine raames arendatud antennis
 
 Antennisuunaja kasutamiseks on vaja mehitamata õhusõidukit, mis saadab telemeetria kaudu MAVLINK protokollis informatsiooni. Arvatavasti läheb vaja ka oma **antenni ja raadiot**, praegu jätame suunajale külge sellega kaasa tulnud 2.4 GHz antenni (mida me proovisime muuta, seega see võib-olla enam ei tööta).
 
+**NB!** Ärge keerake horisontaalset osa 360 kraadi! Kui ta teeb täisringi ära, siis liigub nullkoht paigast ära ning sisemised kaablid võivad painduda liiga palju.
 ## Mida on vaja?
 - Antenn (kui suunajal pole)
 - Telemeetriaraadio/-vastuvõtja (kui suunajal pole)
