@@ -8,7 +8,7 @@ Antennisuunaja kasutamiseks on vaja mehitamata õhusõidukit, mis saadab telemee
 - Antenn (kui suunajal pole)
 - Telemeetriaraadio/-vastuvõtja (kui suunajal pole)
 - (Süle-) arvuti. Selles arvutisse ühendub nii antennisuunaja kui ka raadio (mõlemad USB-ga).
-- Droon (kui simulaatorit ei kasutata)
+- MÕS (kui simulaatorit ei kasutata)
 - Elekter (antennisuunajal on pingeregulaator, võtab sisse kuni 40 V). 4S 5000mAh aku sobib hästi.
 ## Kuidas kasutada?
 Vaata [mavlink-telemeetria repost](https://github.com/ela-mehhatroonika-antennisuunaja/mavlink-telemeetria)
