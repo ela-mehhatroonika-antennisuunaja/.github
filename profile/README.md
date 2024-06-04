@@ -18,6 +18,7 @@ Vaata [mavlink-telemeetria repost](https://github.com/ela-mehhatroonika-antennis
 - [X] Kompass - vajab arendamist, kas leida uus või filtreerida vana tulemusi.
 - [X] requirements.txt
 - [ ] GPS - osaliselt okei, saab kasutada drooni GPS-i
+- [ ] Uus MIL pistik ja pikem USB kaabel.
 - [ ] Joystickuga juhtimine
 - [ ] Parem/kompassipõhine juhtimisalgoritm
 
