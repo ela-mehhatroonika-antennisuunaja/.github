@@ -19,6 +19,7 @@ Vaata [mavlink-telemeetria repost](https://github.com/ela-mehhatroonika-antennis
 - [X] requirements.txt
 - [ ] GPS - osaliselt okei, saab kasutada drooni GPS-i
 - [ ] Joystickuga juhtimine
+- [ ] Parem/kompassipõhine juhtimisalgoritm
 
 ## Muu info
 Kui soovite oma programmiga suunajat liigutada või vaadata servode juhtimise koodi, vaata [servo juhtimise repot](https://github.com/ela-mehhatroonika-antennisuunaja/servo-juhtimine)
